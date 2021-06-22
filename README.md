@@ -173,9 +173,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Indira Luthfiana Mulyahati - [@indiraluthfianam](https://instagram.com/indiraluthfianam) - indiraluthfianaml@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Medium Link: [@indiraluthfianam](https://medium.com/@indiraluthfianam)
 
 
 
